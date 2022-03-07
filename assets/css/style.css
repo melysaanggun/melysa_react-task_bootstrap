@@ -1,0 +1,7 @@
+navbar-brand{
+    color: gray !important;
+}
+
+a:hover {
+    color: green !important;
+}
